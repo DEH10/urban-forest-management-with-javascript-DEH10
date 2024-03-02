@@ -1,4 +1,4 @@
-let cityName = "Techville";
+let cityName = "Techville"; 
 let parkCount = 5;
 let parks = [
     {
