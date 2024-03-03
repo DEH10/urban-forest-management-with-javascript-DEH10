@@ -1,3 +1,5 @@
+import './forestData.js';
+
 // Task 1: Using array and object manipulation, change the name of "Riverside Park" to "Riverside Greenspace" for the relevant tree in the Parks Array.
 let riversidePark = parks.find(park => park.name === "Riverside Park");
 if (riversidePark) {
